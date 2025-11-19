@@ -548,7 +548,7 @@ i {
 .box2 img,
 .box3 img,
 .box4 img {
-    width:360px;
+    width:95%;
      border-radius: 28px;
     height: 300px;
     object-fit: cover;
@@ -916,4 +916,5 @@ i {
         font-size: 14px;
         padding: 10px;
     }
+
 }
